@@ -15,7 +15,8 @@ Ruby ***version 2.6.3***
 ### *Documentation*
 ### *Environment Configuration*
 ### *Error Management*
-### *I18n*
+### *I18n* (Internationalization)
+
 ### *Serializers*
 ### *Testing*
 
