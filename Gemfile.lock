@@ -159,6 +159,7 @@ GEM
       shellany (~> 0.0)
     oj (3.10.1)
     pager_api (0.3.2)
+    pagy (3.7.2)
     parallel (1.19.1)
     parser (2.7.0.2)
       ast (~> 2.4.0)
@@ -323,6 +324,7 @@ DEPENDENCIES
   newrelic_rpm
   oj
   pager_api
+  pagy
   pg
   pg_search
   pluck_to_hash

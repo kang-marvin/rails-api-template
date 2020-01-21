@@ -50,6 +50,7 @@ gem 'auto_strip_attributes', '~> 2.1'
 # API pagination
 gem 'will_paginate'
 gem 'pager_api'
+gem 'pagy'
 
 # For defining and setting default values
 gem 'default_value_for'
