@@ -26,6 +26,6 @@ test:
   database: relishmba_test
   database: <%= ENV.fetch("TESTING_DATABASE") { 'rails_api_test_database' } %>
 
-production:
-  <<: *default
-  database: <%= ENV.fetch("PRODUCTION_DATABASE") { 'rails_api_prod_database' } %>
+# production:
+#   <<: *default
+#   database: <%= ENV.fetch("PRODUCTION_DATABASE") { 'rails_api_prod_database' } %>
