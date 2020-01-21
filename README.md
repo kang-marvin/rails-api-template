@@ -4,31 +4,31 @@ Rails on Rails ***version 6.0.0***,
 
 Ruby ***version 2.6.3***
 
-
 # Topics to consider
 
-### *Authentication*
-### *Authorization*
 ### *Background Jobs*
+
+ > Sidekiq as the Queue Adapater.
+
+ > Redis for caching.
+
 ### *Database Configuration*
+
+  > Postgress database
+
 ### *Deployment*
-### *Documentation*
-### *Environment Configuration*
+
+  > Deployemt script is contained in `deploy.rb` for heroku apps.
+
 ### *Error Management*
-### *I18n* (Internationalization)
+
+  > Read `ApiApplicationController` for more information.
 
 ### *Serializers*
+
+  > Active model serializers.
+
 ### *Testing*
 
+  > RSpec testing framework.
 
-# Things to default to:
-
-> Minitest
-
-> Postgres
-
-> Serializers
-
-> JSON render
-
-> Heroku deployment scripts
